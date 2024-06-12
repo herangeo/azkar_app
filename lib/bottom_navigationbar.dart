@@ -11,8 +11,8 @@ class BNavigation extends StatelessWidget {
       builder: (BuildContext context, int updatedIndex, Widget?_){
         return  
         BottomNavigationBar(
-          selectedItemColor: Color.fromARGB(255, 0, 0, 139),
-          unselectedItemColor: Colors.grey,
+          selectedItemColor: Colors.green[800],
+          unselectedItemColor: Colors.green[600],
           currentIndex: updatedIndex,
           onTap: (newIndex)
           {
@@ -21,10 +21,10 @@ class BNavigation extends StatelessWidget {
           items: const [
         BottomNavigationBarItem(
           icon: Icon(Icons.home),
-          label: "Athkar"),
+          label: "اذكار"),
         BottomNavigationBarItem(
           icon: Icon(Icons.notes),
-        label: "My Athkar"),
+        label: "اذكار بلدي"),
       ]);
       },
 

@@ -1,0 +1,105 @@
+{
+    "duas": [
+      {
+        "title":  "عند الذهاب إلى النوم",
+        "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+        "english": "In Your name, O Allah, I die and I live."
+      },
+      {
+        "title": "الاستيقاظ من النوم",
+        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+        "english": "All praise be to Allah, who gave us life after death and to Him will we be raised and returned."
+      },
+      {
+        "title":  "دخول الحمام",
+        "arabic": "بِسْمِ اللَّهِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+        "english": "In the name of Allah. O Allah, I seek refuge in You from the male and female evil and Jinn's."
+      },
+      {
+        "title":  "مغادرة الحمام",
+        "arabic": "غُفْرَانَكَ الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَعَافَانِي",
+        "english": "O Allah, I seek forgiveness and pardon from You, All Praise be to Allah, who removed the difficulty from me and gave me ease (relief)."
+      },
+      {
+        "title":    "بداية الوضوء",
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+        "english": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+      },
+      {
+        "title":    "اكتمال الوضوء",
+        "arabic": "أَشْهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+        "english": "I testify that there is no one worthy of worship besides Allah. He is all by Himself and has no partner and I testify that Muhammad is Allah's messenger (Rasool)."
+      },
+      {
+        "title":     "دخول المسجد",
+        "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "english": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah, O Allah, open the doors of mercy."
+      },
+      {
+        "title":   "مغادرة المسجد",
+        "arabic": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَرْزُقَنِي رِزْقًا حَلَالًا طَيِّبًا",
+        "english": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah. O Allah, I ask for Your favour, O Allah, verily I seek from You, Your bounty."
+      },
+      {
+        "title":   "قبل الوجبات",
+        "arabic": "بِسْمِ اللَّهِ",
+        "english": "In the name of Allah."
+      },
+      {
+        "title":   "نسيان تلاوة بسم الله",
+        "arabic": "بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
+        "english": "In the name of Allah in the beginning and end."
+      },
+      {
+        "title":   "بعد الوجبات",
+        "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+        "english": "All praise belongs to Allah, who fed us and quenched our thirst and made us Muslims."
+      },
+      {
+        "title":     "دعاء قبل السلام",
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ عَذَابِ النَّارِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+        "english": "O Allah, I seek refuge in You from the punishment of the grave, and from the punishment of Hell-fire, and from the trials of life and death, and from the evil of the trial of the False Messiah."
+      },
+      {
+        "title":    "عند مغادرة المنزل",
+        "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "english": "I depart with Allah's name, relying on Him. It is Allah who saves us from sins with His guidance (the ability to do so)."
+      },
+      {
+        "title":    "في الرحلة",
+        "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+        "english": "Allah is pure, He has given control and without His power we would not have any control without doubt we are to return to him."
+      },
+      {
+        "title":     "العودة من الرحلة",
+        "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ سُبْحَانَ الَّذِي سَدَّدَنَا وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+        "english": "Allah is pure, He has given control and without His power we would not have any control without doubt we are to return to him, we return, repent, worship and praise our Lord."
+      },
+      {
+        "title":    "عند العطس",
+        "arabic": "الْحَمْدُ لِلَّهِ",
+        "english": "All praise is for Allah."
+      },
+      {
+        "title":   "سماع شخص يعطس",
+        "arabic": "يَرْحَمُكَ اللَّهُ",
+        "english": "May Allah have mercy on you."
+      },
+      {
+        "title":   "رد العطاس",
+        "arabic": "يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+        "english": "May Allah guide you and rectify your condition."
+      },
+      {
+        "title":  "دخول السوق",
+        "arabic": "لَا إِلَـٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "english": "None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death, and He is living and does not die. In His hand is all good and He is over all things, omnipotent."
+      },
+      {
+        "title":   "دخول ومغادرة المنزل",
+        "arabic": "توكلت على الله، ولا قوة إلا بالله. اللهم ارزقني أحسن المناهج وأحسن المخرج. باسم الله نأتي، ونخرج باسم الله، وتوكلنا على الله ربنا.",
+        "english": "In the Name of Allah we enter, in the Name of Allah we leave and upon our Lord we depend. Then say: 'As-Salaamu Alaykum' to those present."
+      }
+    ]
+  }
+  
